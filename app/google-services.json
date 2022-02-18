@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "145353569547",
+    "project_id": "mall-parking-app",
+    "storage_bucket": "mall-parking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145353569547:android:03a79f7ad1c73162a2de0e",
+        "android_client_info": {
+          "package_name": "com.example.MallParkingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145353569547-pq6ru0cho20h2jph8tv90gdjlmtt8ona.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmJQYMMUXh72LPx-fePCsnYBF_197kb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145353569547-pq6ru0cho20h2jph8tv90gdjlmtt8ona.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145353569547:android:ad1acf93af45965fa2de0e",
+        "android_client_info": {
+          "package_name": "com.example.mall_parking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145353569547-pq6ru0cho20h2jph8tv90gdjlmtt8ona.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmJQYMMUXh72LPx-fePCsnYBF_197kb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145353569547-pq6ru0cho20h2jph8tv90gdjlmtt8ona.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
